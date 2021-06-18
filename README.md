@@ -12,7 +12,10 @@
 
 ### 引入插件
 ``` javascript
-<script type="text/javascript" src="${ctx}/content/mkt/scdt/js/Preload.js"></script>
+// 调试版
+<script type="text/javascript" src="https://qn.mktcreator.cn/common/js/Preload.js"></script>
+// 压缩生产版
+<script type="text/javascript" src="https://qn.mktcreator.cn/common/js/Preload.min.js"></script>
 ```
 
 ### 初始化插件
